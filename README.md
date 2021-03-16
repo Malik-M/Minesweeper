@@ -7,3 +7,8 @@ This side project is to complment my other side project where i only used Bluepr
 ## Objectives
  - Create Minesweeper
  - Gain experince with the C++ side of the engine by only using C++ for this project.
+
+## How to Run
+- Download the entire resposotory.
+- Open the project with the Unreal Engine.
+- Press play
